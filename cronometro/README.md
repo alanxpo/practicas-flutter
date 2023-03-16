@@ -11,7 +11,7 @@ El proyecto se encuentra en un estado activo y está abierto a contribuciones y 
 El cronómetro se inicia al presionar el botón "Start". El tiempo transcurrido se muestra en la pantalla y se actualiza de forma automatica. El usuario puede detener el cronómetro en cualquier momento presionando el botón "Stop". Además, el usuario puede reiniciar el cronómetro en cualquier momento presionando el botón "Reset". 
 A continuación se muestra una captura de pantalla de la aplicación en funcionamiento:
 
-![Descripción de la imagen](./cronometro/screenshots/cronometro.png)
+![Descripción de la imagen](./screenshots/cronometro.png)
 
 ## Tecnologías utilizadas
 Este proyecto fue desarrollado utilizando el framework Flutter.
