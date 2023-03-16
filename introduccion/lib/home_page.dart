@@ -10,15 +10,15 @@ class HomePage extends StatelessWidget {
         title: const Center(
             child: Text(
           'Introducción a Flutter',
-          style: TextStyle(fontSize: 30, color: Colors.red),
+          style: TextStyle(fontSize: 30, color: Colors.black),
         )),
         leading: const Icon(
           Icons.home,
           size: 40,
-          color: Colors.amber,
+          color: Colors.black,
         ),
       ),
-      body: Text('Fluterrererere'),
+      body: Text('Flutterrrrr'),
     );
   }
 }

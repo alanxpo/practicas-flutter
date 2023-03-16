@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
               radius: 110,
               backgroundImage: ExactAssetImage('assets/images/chokis.jpg'),
             ),
-            Text('Alan Muro',
+            Text('Alfredo Muro',
                 style: TextStyle(
                     fontSize: 40,
                     fontWeight: FontWeight.bold,
@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
                     color: Colors.black,
                   ),
                   title: Text(
-                    '+52 646 126 87 07',
+                    '+52 646 146 51 32',
                     style: TextStyle(
                       fontSize: 25,
                       color: Colors.black,
