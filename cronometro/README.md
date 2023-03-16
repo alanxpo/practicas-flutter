@@ -1,5 +1,5 @@
 ## Cronómetro
-[![Estado del proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/alanxpo/practicas-flutter/tree/main/cronometro)
+[![Estado del proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/alanxpo/practicas-flutter/tree/master/cronometro)
 
 ## Descripción del proyecto
 Este es un proyecto simple de un cronómetro hecho en Flutter. El objetivo de este proyecto es demostrar cómo se puede implementar un cronómetro en Flutter utilizando StatefulWidget. Es un proyecto simple pero útil que puede ser utilizado como punto de partida para proyectos más grandes.
