@@ -1,16 +1,31 @@
-# cronometro
+## Cronómetro
+[![Estado del proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/alanxpo/practicas-flutter/tree/main/cronometro)
 
-A new Flutter project.
+## Descripción del proyecto
+Este es un proyecto simple de un cronómetro hecho en Flutter. El objetivo de este proyecto es demostrar cómo se puede implementar un cronómetro en Flutter utilizando StatefulWidget. Es un proyecto simple pero útil que puede ser utilizado como punto de partida para proyectos más grandes.
 
-## Getting Started
+## Estado del proyecto
+El proyecto se encuentra en un estado activo y está abierto a contribuciones y mejoras.
 
-This project is a starting point for a Flutter application.
+## Características de la aplicación y demostración
+El cronómetro se inicia al presionar el botón "Start". El tiempo transcurrido se muestra en la pantalla y se actualiza de forma automatica. El usuario puede detener el cronómetro en cualquier momento presionando el botón "Stop". Además, el usuario puede reiniciar el cronómetro en cualquier momento presionando el botón "Reset". 
+A continuación se muestra una captura de pantalla de la aplicación en funcionamiento:
 
-A few resources to get you started if this is your first Flutter project:
+![Descripción de la imagen](./cronometro/screenshots/cronometro.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologías utilizadas
+Este proyecto fue desarrollado utilizando el framework Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Acceso al proyecto
+1.Clonar este repositorio en tu máquina local utilizando la terminal o el símbolo del sistema utilizando el siguiente comando:
+```
+git clone https://github.com/alanxpo/practicas-flutter.git
+```
+2.Navegar al directorio del proyecto:
+```
+cd practicas-flutter/cronometro
+```
+3.Navegar al directorio del proyecto:
+```
+flutter run
+```
